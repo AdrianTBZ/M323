@@ -1,4 +1,6 @@
-package Einführung_01.Aufgabe_1
+package einfuehrung_01.aufgabe_1
+
+import kotlin.text.iterator
 
 // Imperativ
 fun calculateScore(word: String): Int {

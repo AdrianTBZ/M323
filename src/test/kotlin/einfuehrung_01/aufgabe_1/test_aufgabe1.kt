@@ -1,7 +1,7 @@
-package Einführung_01.Aufgabe_1
+package einfuehrung_01.aufgabe_1
 
-import kotlin.test.Test
-import kotlin.test.assertEquals
+import org.junit.jupiter.api.Test
+import org.junit.jupiter.api.Assertions.*
 
 class ScoreTest {
 
